@@ -1,0 +1,13 @@
+{
+  "frameworkType": "react",
+  "frameworkTypes": [
+    "react",
+    "backbone",
+    "html5"
+  ],
+  "apps": {
+    "react": "https://github.com/XScripter/geekpack-react.git",
+    "backbone": "https://github.com/XScripter/geekpack-backbone.git",
+    "html5": "https://github.com/XScripter/geekpack-html5.git"
+  }
+}
